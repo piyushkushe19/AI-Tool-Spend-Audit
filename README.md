@@ -98,23 +98,15 @@ Most teams:
 
 ---
 
-## 📊 Audit Dashboard
+## 📊 Audit Dashboard & Results
 
 <p align="center">
   <img src="./screenshots/AuditDashboard1.png" alt="Audit Dashboard 1" width="100%" />
 </p>
 
----
-
-## 📊 Savings Analytics
-
 <p align="center">
   <img src="./screenshots/AuditDashboard2.png" alt="Audit Dashboard 2" width="100%" />
 </p>
-
----
-
-## 📊 Optimization Recommendations
 
 <p align="center">
   <img src="./screenshots/AuditDashboard3.png" alt="Audit Dashboard 3" width="100%" />
