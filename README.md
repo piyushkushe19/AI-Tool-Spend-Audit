@@ -74,19 +74,51 @@ Most teams:
 
 # 🖼️ Screenshots
 
-## Landing Page
+## 🚀 Landing Page
+
 <p align="center">
-  <img src="./screenshots/La" alt="Landing Page" width="100%" />
+  <img src="./screenshots/LandingPage-Spendlens.png" alt="Landing Page" width="100%" />
 </p>
 
-## Audit Form
-> Add screenshot here
+---
 
-## Audit Results Dashboard
-> Add screenshot here
+## 📝 Audit Form
 
-## Public Shareable Audit
-> Add screenshot here
+<p align="center">
+  <img src="./screenshots/AuditForm.png" alt="Audit Form" width="100%" />
+</p>
+
+---
+
+## 📝 Audit Form Demo
+
+<p align="center">
+  <img src="./screenshots/AuditForm_Demo.png" alt="Audit Form Demo" width="100%" />
+</p>
+
+---
+
+## 📊 Audit Dashboard
+
+<p align="center">
+  <img src="./screenshots/AuditDashboard1.png" alt="Audit Dashboard 1" width="100%" />
+</p>
+
+---
+
+## 📊 Savings Analytics
+
+<p align="center">
+  <img src="./screenshots/AuditDashboard2.png" alt="Audit Dashboard 2" width="100%" />
+</p>
+
+---
+
+## 📊 Optimization Recommendations
+
+<p align="center">
+  <img src="./screenshots/AuditDashboard3.png" alt="Audit Dashboard 3" width="100%" />
+</p>
 
 ---
 
